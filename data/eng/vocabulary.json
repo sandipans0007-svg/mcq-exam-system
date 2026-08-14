@@ -1,0 +1,31 @@
+{
+  "subject": "Finance",
+  "chapter": "Accounting Principles - Chapter 1",
+  "negativeMark": 0.5,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is classified as a Current Asset?",
+      "options": [
+        "Accounts Payable",
+        "Cash and Cash Equivalents",
+        "Equipment",
+        "Retained Earnings"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cash is a current asset because it is already liquid and available for short-term use."
+    },
+    {
+      "id": 2,
+      "question": "What is the fundamental accounting equation?",
+      "options": [
+        "Assets = Liabilities + Equity",
+        "Assets = Liabilities - Equity",
+        "Liabilities = Assets + Equity",
+        "Equity = Liabilities - Assets"
+      ],
+      "correctIndex": 0,
+      "explanation": ""
+    }
+  ]
+}
