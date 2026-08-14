@@ -1,32 +1,31 @@
 {
-  "subject": "English",
-  "chapter": "Vocabulary-set-1",
+  "subject": "Finance",
+  "chapter": "Accounting Principles - Chapter 1",
   "negativeMark": 0.5,
   "questions": [
     {
       "id": 1,
-      "question": "Ameliorate meaning?",
+      "question": "Which of the following is classified as a Current Asset?",
       "options": [
-        "Assets = Liabilities + Owner's Equity",
-        "Assets = Liabilities - Owner's Equity",
-        "Liabilities = Assets + Owner's Equity",
-        "Equity = Liabilities - Assets"
+        "Accounts Payable",
+        "Cash and Cash Equivalents",
+        "Equipment",
+        "Retained Earnings"
       ],
-      "correctIndex": 0,
-      "explanation": "The fundamental accounting equation states that Assets must always equal the sum of Liabilities and Owner's Equity."
+      "correctIndex": 1,
+      "explanation": "Cash is a current asset because it is already liquid and available for short-term use."
     },
     {
       "id": 2,
-      "question": "Is cash considered a current asset?",
+      "question": "What is the fundamental accounting equation?",
       "options": [
-        "Yes, always",
-        "No, it is liability",
-        "Only in non-profit orgs",
-        "None of the above"
+        "Assets = Liabilities + Equity",
+        "Assets = Liabilities - Equity",
+        "Liabilities = Assets + Equity",
+        "Equity = Liabilities - Assets"
       ],
       "correctIndex": 0,
-      "explanation": "" 
+      "explanation": ""
     }
   ]
 }
-
