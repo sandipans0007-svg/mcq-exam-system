@@ -1,0 +1,32 @@
+{
+  "subject": "English",
+  "chapter": "Vocabulary-set-1",
+  "negativeMark": 0.5,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ameliorate meaning?",
+      "options": [
+        "Assets = Liabilities + Owner's Equity",
+        "Assets = Liabilities - Owner's Equity",
+        "Liabilities = Assets + Owner's Equity",
+        "Equity = Liabilities - Assets"
+      ],
+      "correctIndex": 0,
+      "explanation": "The fundamental accounting equation states that Assets must always equal the sum of Liabilities and Owner's Equity."
+    },
+    {
+      "id": 2,
+      "question": "Is cash considered a current asset?",
+      "options": [
+        "Yes, always",
+        "No, it is liability",
+        "Only in non-profit orgs",
+        "None of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "" 
+    }
+  ]
+}
+
